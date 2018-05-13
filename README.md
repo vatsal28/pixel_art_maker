@@ -1,1 +1,1 @@
-# pixel_art_maker
+#My version of Google Udacity India Scholarship's pixel art maker
